@@ -1,0 +1,11 @@
+#navbar {
+  display: inline-flex;
+  height: 100vh;
+  width: 224px;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background: var(--Secondary-Navbar, #1E2640);
+  color: var(--Black-100, #FFF);
+  
+}
